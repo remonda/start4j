@@ -21,7 +21,7 @@
 ## How to get/use it
 > 
 * 1、git clone 
-* 2、在MySQL中导入 quick4j/src/test/resources/quick4j.sql 脚本
+* 2、在MySQL中导入 start4j/src/test/resources/start4j.sql 脚本
 * 3、更新 start4j/src/main/resources/application.properties 中 JDBC Global Setting
 * 4、cd start4j
 * 5、mvn war:war 
