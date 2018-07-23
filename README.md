@@ -1,4 +1,4 @@
-<h1 align="center">quick4j</h1>
+<h1 align="center">start4j</h1>
 
 
 **start4j** 是一个通用JavaWeb项目骨架， 
@@ -20,12 +20,12 @@
 
 ## How to get/use it
 > 
-* 1、git clone https://github.com/Eliteams/quick4j.git
+* 1、git clone 
 * 2、在MySQL中导入 quick4j/src/test/resources/quick4j.sql 脚本
-* 3、更新 quick4j/src/main/resources/application.properties 中 JDBC Global Setting
-* 4、cd quick4j
+* 3、更新 start4j/src/main/resources/application.properties 中 JDBC Global Setting
+* 4、cd start4j
 * 5、mvn war:war 
-* 6、把 quick4j/target/quick4j.war 发布在App Server(Tomcat、JBOSS) 中
+* 6、把 start4j/target/quick4j.war 发布在App Server(Tomcat、JBOSS) 中
 
 
 ## 在IDE 中查看源码并运行
